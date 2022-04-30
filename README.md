@@ -1,4 +1,4 @@
-# C-Game-  
+# Demolition Man C Game  
 Created By [Papachristou Ioannis](https://github.com/dit18146) and [Kosmas Karamadoukis](https://github.com/KosmicGR?fbclid=IwAR2qK4UTLupLVMyF0wr1Tu8CgIC_KlW3sg8bT8e6_1R1E4NtJL2XjY13WJ0)
 
 ## Description
