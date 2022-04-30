@@ -6,9 +6,9 @@ Created By [Papachristou Ioannis](https://github.com/dit18146) and [Kosmas Karam
 First year, second semester, brick destroying game (each brick type is represented with a number), created using **C**.  
 Contains programming features like dynamic array management, backtrack recursion and many more.
 
-Gameplay manual.  
-*Follow the command instructions.
-*In weapon selection the chars mean: **h for hammer, b for bomb, p for push, a for add, x for exit**
+Gameplay manual.    
+* Follow the command instructions.  
+* In weapon selection the chars mean: **h for hammer, b for bomb, p for push, a for add, x for exit**
 
 
 
