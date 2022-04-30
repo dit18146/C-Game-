@@ -3,7 +3,7 @@ Created By [Papachristou Ioannis](https://github.com/dit18146) and [Kosmas Karam
 
 ## Description
 
-First year, second semester, brick destroying game (each brick type is represented with a number), created using **C**.  
+First year, second semester, brick destroying game with colour matching (each brick colour is represented with a number), created using **C**.  
 Contains programming features like dynamic array management, backtrack recursion and many more.
 
 Gameplay manual.    
