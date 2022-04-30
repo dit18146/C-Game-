@@ -7,7 +7,7 @@ First year, second semester, brick destroying game (each brick type is represent
 Contains programming features like dynamic array management, backtrack recursion and many more.
 
 Gameplay manual.    
-* Follow the command instructions.  
+* Follow the command line instructions.  
 * In weapon selection the chars mean: **h for hammer, b for bomb, p for push, a for add, x for exit**
 
 
