@@ -8,7 +8,7 @@ Contains programming features like dynamic array management, backtrack recursion
 
 Gameplay manual.    
 * Follow the command line instructions.  
-* In weapon selection the chars mean: **h for hammer, b for bomb, p for push, a for add, x for exit**
+* In weapon selection the characterss mean: **h for hammer, b for bomb, p for push, a for add, x for exit**
 
 
 
